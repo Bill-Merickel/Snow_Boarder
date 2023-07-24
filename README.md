@@ -1,4 +1,4 @@
-# Snow_Boarder
+# Snowboarder
 Snowboarder is a game I built with Unity and C# where you are playing as an accelerating snowboarder and you can do cool flips tricks while jumping off ramps.
 Play it [here](https://play.unity.com/mg/other/webglbuild-789)!
 
